@@ -1,6 +1,6 @@
 ﻿namespace SemiSync
 {
-    public class Program
+    public class SemiSync
     {
         private static async Task HandleAsync()
         {
